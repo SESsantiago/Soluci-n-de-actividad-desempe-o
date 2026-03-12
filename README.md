@@ -32,8 +32,8 @@ Clonar el repositorio: Abre una terminal y ejecuta el siguiente comando para des
 
 Bash
 
-git clone https://github.com/[TU_USUARIO]/[NOMBRE_DE_TU_REPOSITORIO].git
-(Asegúrate de reemplazar [TU_USUARIO] y [NOMBRE_DE_TU_REPOSITORIO] con tus datos reales).
+git clone https://github.com/SESsantiago/Soluci-n-de-actividad-desempe-o.git
+
 
 Abrir los archivos: Una vez clonado, puedes abrir la carpeta del proyecto en tu editor de código preferido (como VS Code) o abrir directamente los archivos HTML en tu navegador.
 
